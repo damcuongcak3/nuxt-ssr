@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Tutorial />
+    <h5>This iss <strong> ABOUT </strong> page</h5>
 
     <div>
       <nuxt-link to="/">Index</nuxt-link>
@@ -10,9 +10,3 @@
     </div>
   </div>
 </template>
-
-<script>
-export default {
-  name: "IndexPage",
-};
-</script>
