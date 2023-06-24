@@ -9,11 +9,19 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "bootstrap": "^5.3.0",
+    "bootstrap-vue": "^2.23.1",
+    "cookie": "^0.5.0",
     "core-js": "^3.25.3",
+    "js-cookie": "^3.0.5",
+    "lodash": "^4.17.21",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
-    "vue-template-compiler": "^2.7.10"
+    "vue-template-compiler": "^2.7.10",
+    "vuex": "^3.0",
+    "vuex-map-fields": "^1.4.1",
+    "vuex-persistedstate": "^4.0.0-beta.3"
   },
   "devDependencies": {}
 }
